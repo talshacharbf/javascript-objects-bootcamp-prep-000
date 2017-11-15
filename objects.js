@@ -1,1 +1,2 @@
-var objects = {`playlist`};
+var playlist = {
+  artist :song title };
