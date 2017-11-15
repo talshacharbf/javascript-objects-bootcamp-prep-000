@@ -1,1 +1,1 @@
-var objects = {playlist};
+objects = {playlist};
